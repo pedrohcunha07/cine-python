@@ -11,5 +11,5 @@ And its evolution as I finish the CS50P Course until week 9
 - **Scalability:** The new architecture allows adding new movies by simply updating the dictionary, without touching the core logic.
 
 ###  File Comparison:
-- `bilheteria_v1`: Initial logic using Week 1 concepts.
+- `cine-v1`: Initial logic using Week 1 concepts.
 - `bilheteria_v2`: Refactored version using Week 3 professional standards.
